@@ -52,3 +52,33 @@
 48. RimQuest (Continued)
 49. ToolkitCore
 50. Twitch Toolkit
+
+### Scenario
+###### Frost and Fire without Royalty
+4 ppl
+
+##### Incidents disabled:
+- Abrosia sprout
+- Farm animals wander in
+- Wander join
+- Transport pod crash
+- Thrumbos pass
+- Herd migration
+- Wild man wanders in
+- Man in black
+- Journey offer
+- Trader caravan arrival
+- Self-tame
+
+##### Start with:
+- Packaged survial meal x75
+- Medicine x30
+- Component x30
+- Bolt-aciton rifle
+- Revolver
+- Pasteel knife
+- Steel x450
+- Wood x30
+
+##### Map is scattered with:
+- Steel x1250
