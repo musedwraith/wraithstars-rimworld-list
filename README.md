@@ -1,7 +1,7 @@
 ## wraithstars-rimworld-list
 ###### Upload itemlist.json and eventlist.json
 
-###### Mod List & Order
+### Mod List & Order
 1. Harmony
 2. Core
 3. Custom Climate Cycle
