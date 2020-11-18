@@ -1,7 +1,7 @@
 {
 	"items" : [
 	{
-		"abr": ""tincan"helmet",
+		"abr": "tincanhelmet",
 		"price": 153,
 		"category": "Skeleton apparel",
 		"defname": "Kenshi_TinCan"
@@ -1655,84 +1655,6 @@
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
 	},
 	{
 		"abr": "guineapig",
@@ -4183,83 +4105,293 @@
 		"defname": "WaterButt"
 	},
 	{
-		"abr": "watertub",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "WashBucket"
-	},
-	{
-		"abr": "weaponrack",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Shelf_WeaponRack"
-	},
-	{
-		"abr": "whip",
-		"price": 203,
-		"category": "Ranged weapons",
-		"defname": "VWE_Tool_Whip"
-	},
-	{
-		"abr": "wildboar",
-		"price": 333,
-		"category": "Animal",
-		"defname": "WildBoar"
-	},
-	{
-		"abr": "wood",
-		"price": 2,
+		"abr": "alphapoly",
+		"price": 195,
 		"category": "Raw resources",
-		"defname": "WoodLog"
+		"defname": "AlphaPoly"
 	},
 	{
-		"abr": "woolhat",
-		"price": 91,
-		"category": "Skeleton apparel",
-		"defname": "Kenshi_WoolHat"
+		"abr": "apb-1pistol",
+		"price": 3000,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Pistol"
 	},
 	{
-		"abr": "wornleather",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Plain"
+		"abr": "apb-1projector",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Projector"
 	},
 	{
-		"abr": "wort",
-		"price": 4,
+		"abr": "apb-1rifle",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "Gun_APB-1Rifle"
+	},
+	{
+		"abr": "automaticclustermortar",
+		"price": 11942,
+		"category": "Security",
+		"defname": "ClusterMortar"
+	},
+	{
+		"abr": "automaticempmortar",
+		"price": 11942,
+		"category": "Security",
+		"defname": "EMPAMortar"
+	},
+	{
+		"abr": "automaticmortar",
+		"price": 11942,
+		"category": "Security",
+		"defname": "AutoMortar"
+	},
+	{
+		"abr": "bandages",
+		"price": 417,
 		"category": "Manufactured",
-		"defname": "Wort"
+		"defname": "Bandage"
 	},
 	{
-		"abr": "wrench",
-		"price": 277,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Wrench"
+		"abr": "battery",
+		"price": 2708,
+		"category": "Power",
+		"defname": "FissionBattery"
 	},
 	{
-		"abr": "wrestlingpit",
-		"price": 221,
-		"category": "Furniture",
-		"defname": "WrestlingPit"
+		"abr": "betapoly",
+		"price": 392,
+		"category": "Raw resources",
+		"defname": "BetaPoly"
 	},
 	{
-		"abr": "yak",
-		"price": 533,
-		"category": "Animal",
-		"defname": "Yak"
-	},
-	{
-		"abr": "yayo",
-		"price": 35,
+		"abr": "birthcontrol",
+		"price": 17,
 		"category": "Drugs",
-		"defname": "Yayo"
+		"defname": "BirthControl"
 	},
 	{
-		"abr": "yorkshireterrier",
-		"price": 167,
-		"category": "Animal",
-		"defname": "YorkshireTerrier"
-	}
+		"abr": "blackboard",
+		"price": 358,
+		"category": "Production",
+		"defname": "Blackboard"
+	},
+	{
+		"abr": "cannisterturret",
+		"price": 3858,
+		"category": "Security",
+		"defname": "CannisterTurret"
+	},
+	{
+		"abr": "circuitbreaker",
+		"price": 278,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker"
+	},
+	{
+		"abr": "computercomponents",
+		"price": 583,
+		"category": "Manufactured",
+		"defname": "ComputerComp"
+	},
+	{
+		"abr": "cruisemissileturret",
+		"price": 34383,
+		"category": "Security",
+		"defname": "CMissileTurret"
+	},
+	{
+		"abr": "emrgturret",
+		"price": 6875,
+		"category": "Security",
+		"defname": "EMTurret"
+	},
+	{
+		"abr": "emrg-1",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMRifle"
+	},
+	{
+		"abr": "ethanol",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "Ethanol"
+	},
+	{
+		"abr": "fertilitybooster",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "FertilityBooster"
+	},
+	{
+		"abr": "fibreskinsuit",
+		"price": 4667,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSkin"
+	},
+	{
+		"abr": "floodlight",
+		"price": 808,
+		"category": "Furniture",
+		"defname": "FloodLight"
+	},
+	{
+		"abr": "hc-1shield",
+		"price": 4000,
+		"category": "Apparel",
+		"defname": "Apparel_HC1Shield"
+	},
+	{
+		"abr": "infusionamplifier",
+		"price": 1083,
+		"category": "Artifacts",
+		"defname": "InfusedAmplifier"
+	},
+	{
+		"abr": "longrangemissileturret",
+		"price": 29100,
+		"category": "Security",
+		"defname": "MissileTurret"
+	},
+	{
+		"abr": "magneticcoil",
+		"price": 2000,
+		"category": "Manufactured",
+		"defname": "MagneticCoil"
+	},
+	{
+		"abr": "makeshiftfuse",
+		"price": 120,
+		"category": "Power",
+		"defname": "Building_RTMakeshiftFuse"
+	},
+	{
+		"abr": "mrg-5pistol",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "Gun_MRGPistol"
+	},
+	{
+		"abr": "mrg-5rifle",
+		"price": 4333,
+		"category": "Ranged weapons",
+		"defname": "Gun_MRGRifle"
+	},
+	{
+		"abr": "nanosuit",
+		"price": 8333,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSuit"
+	},
+	{
+		"abr": "nanosuithelmet",
+		"price": 3000,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSuitHelmet"
+	},
+	{
+		"abr": "ocdefensepistol",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCPDPistol"
+	},
+	{
+		"abr": "ocdefenserifle",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCPDRifle"
+	},
+	{
+		"abr": "orioncombatvest",
+		"price": 1333,
+		"category": "Apparel",
+		"defname": "Apparel_OCCombatVest"
+	},
+	{
+		"abr": "orioncorpdefenseshield",
+		"price": 3500,
+		"category": "Apparel",
+		"defname": "Apparel_OCShield"
+	},
+	{
+		"abr": "orioncorppacifier",
+		"price": 3500,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_GTPacifier"
+	},
+	{
+		"abr": "orioncorporationhelmet",
+		"price": 1167,
+		"category": "Apparel",
+		"defname": "Apparel_OCHelmet"
+	},
+	{
+		"abr": "orionexoskeleton",
+		"price": 7500,
+		"category": "Bionic",
+		"defname": "OCExo"
+	},
+	{
+		"abr": "orionrocketlauncher",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_OCRocket"
+	},
+	{
+		"abr": "orionunfiormpants",
+		"price": 1333,
+		"category": "Apparel",
+		"defname": "Apparel_OCPants"
+	},
+	{
+		"abr": "orionuniformshirt",
+		"price": 1333,
+		"category": "Apparel",
+		"defname": "Apparel_OCShirt"
+	},
+	{
+		"abr": "pregnancytest",
+		"price": 12,
+		"category": "Drugs",
+		"defname": "PregnancyTest"
+	},
+	{
+		"abr": "reactivesuit",
+		"price": 3000,
+		"category": "Apparel",
+		"defname": "Apparel_Reactive"
+	},
+	{
+		"abr": "schooltable",
+		"price": 281,
+		"category": "Production",
+		"defname": "SchoolTable"
+	},
+	{
+		"abr": "serum",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "Serum"
+	},
+	{
+		"abr": "silicon",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "Silicon"
+	},
+	{
+		"abr": "speedskinsuit",
+		"price": 4667,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSpeed"
+	},
+	{
+		"abr": "titanium",
+		"price": 53,
+		"category": "Raw resources",
+		"defname": "Titanium"
+	},
 	],
-	"total": 710
+	"total": 745
 }
