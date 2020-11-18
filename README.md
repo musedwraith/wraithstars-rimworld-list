@@ -65,9 +65,9 @@
 - Thrumbos pass
 - Herd migration
 - Wild man wanders in
+- Alphabeavers
 - Man in black
 - Journey offer
-- Trader caravan arrival
 - Self-tame
 
 ##### Start with:
