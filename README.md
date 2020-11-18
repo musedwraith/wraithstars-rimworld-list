@@ -82,3 +82,11 @@
 
 ##### Map is scattered with:
 - Steel x1250
+
+### Storyteller
+Void; Strive to Survive; Reload anytime mode
+
+### Location
+- Seed: `brook`
+- Location: `14.15°S, 13.08°E`
+- Size: `275 x 275 (75,625 cells)`
