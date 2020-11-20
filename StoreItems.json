@@ -14,7 +14,7 @@
 	},
 	{
 		"abr": "agavefruit",
-		"price": 2,
+		"price": 52,
 		"category": "Vegetarian",
 		"defname": "RawAgave"
 	},
@@ -32,13 +32,13 @@
 	},
 	{
 		"abr": "alpaca",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
 		"abr": "alphabeaver",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
@@ -122,13 +122,13 @@
 	},
 	{
 		"abr": "arcticfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "arcticwolf",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
@@ -290,7 +290,7 @@
 	},
 	{
 		"abr": "berries",
-		"price": 2,
+		"price": 52,
 		"category": "Vegetarian",
 		"defname": "RawBerries"
 	},
@@ -374,7 +374,7 @@
 	},
 	{
 		"abr": "bison",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Bison"
 	},
@@ -422,19 +422,19 @@
 	},
 	{
 		"abr": "bonedogmeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_KenshiBonedog"
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
@@ -512,7 +512,7 @@
 	},
 	{
 		"abr": "capybara",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Capybara"
 	},
@@ -524,13 +524,13 @@
 	},
 	{
 		"abr": "caribou",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Caribou"
 	},
 	{
 		"abr": "cassowary",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cassowary"
 	},
@@ -656,13 +656,13 @@
 	},
 	{
 		"abr": "chinchilla",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Chinchilla"
 	},
 	{
 		"abr": "chocolate",
-		"price": 5,
+		"price": 55,
 		"category": "Foods",
 		"defname": "Chocolate"
 	},
@@ -698,7 +698,7 @@
 	},
 	{
 		"abr": "cobra",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cobra"
 	},
@@ -740,7 +740,7 @@
 	},
 	{
 		"abr": "corn",
-		"price": 2,
+		"price": 52,
 		"category": "Vegetarian",
 		"defname": "RawCorn"
 	},
@@ -758,7 +758,7 @@
 	},
 	{
 		"abr": "cougar",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cougar"
 	},
@@ -770,7 +770,7 @@
 	},
 	{
 		"abr": "cow",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cow"
 	},
@@ -806,7 +806,7 @@
 	},
 	{
 		"abr": "crabmeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_KenshiCrab"
 	},
@@ -860,7 +860,7 @@
 	},
 	{
 		"abr": "deer",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Deer"
 	},
@@ -890,7 +890,7 @@
 	},
 	{
 		"abr": "donkey",
-		"price": 533,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Donkey"
 	},
@@ -962,7 +962,7 @@
 	},
 	{
 		"abr": "dromedary",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Dromedary"
 	},
@@ -980,7 +980,7 @@
 	},
 	{
 		"abr": "duck",
-		"price": 100,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Duck"
 	},
@@ -1070,7 +1070,7 @@
 	},
 	{
 		"abr": "elephant",
-		"price": 1000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Elephant"
 	},
@@ -1082,7 +1082,7 @@
 	},
 	{
 		"abr": "elk",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Elk"
 	},
@@ -1106,7 +1106,7 @@
 	},
 	{
 		"abr": "emu",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Emu"
 	},
@@ -1142,7 +1142,7 @@
 	},
 	{
 		"abr": "fennecfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
@@ -1160,7 +1160,7 @@
 	},
 	{
 		"abr": "finemeal",
-		"price": 33,
+		"price": 83,
 		"category": "Meals",
 		"defname": "MealFine"
 	},
@@ -1268,7 +1268,7 @@
 	},
 	{
 		"abr": "foulmeat",
-		"price": 1,
+		"price": 51,
 		"category": "Meat",
 		"defname": "Meat_Megaspider"
 	},
@@ -1322,7 +1322,7 @@
 	},
 	{
 		"abr": "garrumeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_KenshiGarru"
 	},
@@ -1346,7 +1346,7 @@
 	},
 	{
 		"abr": "gazelle",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Gazelle"
 	},
@@ -1364,7 +1364,7 @@
 	},
 	{
 		"abr": "giantspidermeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_RH_DF_GiantSpider"
 	},
@@ -1388,7 +1388,7 @@
 	},
 	{
 		"abr": "goat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Goat"
 	},
@@ -1490,7 +1490,7 @@
 	},
 	{
 		"abr": "goblinmeat",
-		"price": 1,
+		"price": 51,
 		"category": "Meat",
 		"defname": "Meat_Fantasy_Goblin"
 	},
@@ -1586,13 +1586,13 @@
 	},
 	{
 		"abr": "gold",
-		"price": 17,
+		"price": 67,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
 	{
 		"abr": "goose",
-		"price": 150,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Goose"
 	},
@@ -1610,7 +1610,7 @@
 	},
 	{
 		"abr": "gorillomeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_KenshiGorillo"
 	},
@@ -1652,13 +1652,13 @@
 	},
 	{
 		"abr": "grizzlybear",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
 		"abr": "guineapig",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GuineaPig"
 	},
@@ -1706,7 +1706,7 @@
 	},
 	{
 		"abr": "hay",
-		"price": 1,
+		"price": 51,
 		"category": "Foods",
 		"defname": "Hay"
 	},
@@ -1766,7 +1766,7 @@
 	},
 	{
 		"abr": "horse",
-		"price": 917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Horse"
 	},
@@ -1802,13 +1802,13 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": 51,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
 	{
 		"abr": "husky",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Husky"
 	},
@@ -1820,7 +1820,7 @@
 	},
 	{
 		"abr": "ibex",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ibex"
 	},
@@ -1862,7 +1862,7 @@
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Iguana"
 	},
@@ -1934,7 +1934,7 @@
 	},
 	{
 		"abr": "jade",
-		"price": 8,
+		"price": 58,
 		"category": "Raw resources",
 		"defname": "Jade"
 	},
@@ -1976,7 +1976,7 @@
 	},
 	{
 		"abr": "kibble",
-		"price": 2,
+		"price": 52,
 		"category": "Foods",
 		"defname": "Kibble"
 	},
@@ -2006,7 +2006,7 @@
 	},
 	{
 		"abr": "labradorretriever",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
@@ -2084,7 +2084,7 @@
 	},
 	{
 		"abr": "lavishmeal",
-		"price": 67,
+		"price": 117,
 		"category": "Meals",
 		"defname": "MealLavish"
 	},
@@ -2108,7 +2108,7 @@
 	},
 	{
 		"abr": "leviathanmeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_KenshiLeviathan"
 	},
@@ -2204,7 +2204,7 @@
 	},
 	{
 		"abr": "lynx",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Lynx"
 	},
@@ -2276,7 +2276,7 @@
 	},
 	{
 		"abr": "megascarab",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Megascarab"
 	},
@@ -2288,7 +2288,7 @@
 	},
 	{
 		"abr": "megasloth",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Megasloth"
 	},
@@ -2342,7 +2342,7 @@
 	},
 	{
 		"abr": "monkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Monkey"
 	},
@@ -2354,7 +2354,7 @@
 	},
 	{
 		"abr": "moonshadesoup",
-		"price": 13,
+		"price": 63,
 		"category": "Meals",
 		"defname": "MoonShadeSoup"
 	},
@@ -2372,7 +2372,7 @@
 	},
 	{
 		"abr": "muffalo",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
@@ -2432,13 +2432,13 @@
 	},
 	{
 		"abr": "nutrientpastemeal",
-		"price": 17,
+		"price": 67,
 		"category": "Meals",
 		"defname": "MealNutrientPaste"
 	},
 	{
 		"abr": "nyaron",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Nyaron"
 	},
@@ -2468,7 +2468,7 @@
 	},
 	{
 		"abr": "nyaronmeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_Alien_Nyaron"
 	},
@@ -2486,7 +2486,7 @@
 	},
 	{
 		"abr": "oil",
-		"price": 2,
+		"price": 52,
 		"category": "Foods",
 		"defname": "Oil"
 	},
@@ -2528,7 +2528,7 @@
 	},
 	{
 		"abr": "ostrich",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ostrich"
 	},
@@ -2540,7 +2540,7 @@
 	},
 	{
 		"abr": "packagedsurvivalmeal",
-		"price": 40,
+		"price": 90,
 		"category": "Meals",
 		"defname": "MealSurvivalPack"
 	},
@@ -2558,7 +2558,7 @@
 	},
 	{
 		"abr": "packbullmeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_KenshiPackBull"
 	},
@@ -2576,7 +2576,7 @@
 	},
 	{
 		"abr": "panther",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Panther"
 	},
@@ -2600,7 +2600,7 @@
 	},
 	{
 		"abr": "pemmican",
-		"price": 2,
+		"price": 52,
 		"category": "Foods",
 		"defname": "Pemmican"
 	},
@@ -2630,13 +2630,13 @@
 	},
 	{
 		"abr": "pickedmoonshadeinkcap",
-		"price": 2,
+		"price": 52,
 		"category": "Vegetarian",
 		"defname": "Resource_RawMoonShade"
 	},
 	{
 		"abr": "pig",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Pig"
 	},
@@ -2654,7 +2654,7 @@
 	},
 	{
 		"abr": "plasteel",
-		"price": 15,
+		"price": 65,
 		"category": "Raw resources",
 		"defname": "Plasteel"
 	},
@@ -2690,7 +2690,7 @@
 	},
 	{
 		"abr": "polarbear",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
@@ -2702,7 +2702,7 @@
 	},
 	{
 		"abr": "potatoes",
-		"price": 2,
+		"price": 52,
 		"category": "Vegetarian",
 		"defname": "RawPotatoes"
 	},
@@ -2822,7 +2822,7 @@
 	},
 	{
 		"abr": "raccoon",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Raccoon"
 	},
@@ -2846,13 +2846,13 @@
 	},
 	{
 		"abr": "raptorflesh",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_KenshiSwampraptor"
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -2864,7 +2864,7 @@
 	},
 	{
 		"abr": "rawfungus",
-		"price": 2,
+		"price": 52,
 		"category": "Vegetarian",
 		"defname": "RawFungus"
 	},
@@ -2888,7 +2888,7 @@
 	},
 	{
 		"abr": "redfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Fox_Red"
 	},
@@ -2912,13 +2912,13 @@
 	},
 	{
 		"abr": "rhinoceros",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
 	{
 		"abr": "rice",
-		"price": 2,
+		"price": 52,
 		"category": "Vegetarian",
 		"defname": "RawRice"
 	},
@@ -3080,7 +3080,7 @@
 	},
 	{
 		"abr": "sheep",
-		"price": 350,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Sheep"
 	},
@@ -3128,7 +3128,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": 2,
+		"price": 52,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -3146,7 +3146,7 @@
 	},
 	{
 		"abr": "simplemeal",
-		"price": 25,
+		"price": 75,
 		"category": "Meals",
 		"defname": "MealSimple"
 	},
@@ -3284,13 +3284,13 @@
 	},
 	{
 		"abr": "slither",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SlitherRace"
 	},
 	{
 		"abr": "slithermeat",
-		"price": 1,
+		"price": 51,
 		"category": "Meat",
 		"defname": "Meat_SlitherRace"
 	},
@@ -3380,7 +3380,7 @@
 	},
 	{
 		"abr": "spelopede",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Spelopede"
 	},
@@ -3428,7 +3428,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -3464,7 +3464,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": 3,
+		"price": 53,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -3530,7 +3530,7 @@
 	},
 	{
 		"abr": "swampturtlemeat",
-		"price": 3,
+		"price": 53,
 		"category": "Meat",
 		"defname": "Meat_KenshiSwampturtle"
 	},
@@ -3722,7 +3722,7 @@
 	},
 	{
 		"abr": "thrumbo",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Thrumbo"
 	},
@@ -3734,7 +3734,7 @@
 	},
 	{
 		"abr": "timberwolf",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
@@ -3758,7 +3758,7 @@
 	},
 	{
 		"abr": "tortoise",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Tortoise"
 	},
@@ -3830,13 +3830,13 @@
 	},
 	{
 		"abr": "turkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Turkey"
 	},
 	{
 		"abr": "uranium",
-		"price": 10,
+		"price": 60,
 		"category": "Raw resources",
 		"defname": "Uranium"
 	},
@@ -4088,7 +4088,7 @@
 	},
 	{
 		"abr": "warg",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Warg"
 	},
@@ -4388,10 +4388,88 @@
 	},
 	{
 		"abr": "titanium",
-		"price": 53,
+		"price": 103,
 		"category": "Raw resources",
 		"defname": "Titanium"
 	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
+		"abr": "weaponrack",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Shelf_WeaponRack"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "wildboar",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WildBoar"
+	},
+	{
+		"abr": "wood",
+		"price": 52,
+		"category": "Raw resources",
+		"defname": "WoodLog"
+	},
+	{
+		"abr": "woolhat",
+		"price": 91,
+		"category": "Skeleton apparel",
+		"defname": "Kenshi_WoolHat"
+	},
+	{
+		"abr": "wornleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Plain"
+	},
+	{
+		"abr": "wort",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "Wort"
+	},
+	{
+		"abr": "wrench",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Wrench"
+	},
+	{
+		"abr": "wrestlingpit",
+		"price": 221,
+		"category": "Furniture",
+		"defname": "WrestlingPit"
+	},
+	{
+		"abr": "yak",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Yak"
+	},
+	{
+		"abr": "yayo",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "Yayo"
+	},
+	{
+		"abr": "yorkshireterrier",
+		"price": 167,
+		"category": "Animal",
+		"defname": "YorkshireTerrier"
+	},
 	],
-	"total": 745
+	"total": 758
 }
